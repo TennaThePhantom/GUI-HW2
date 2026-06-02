@@ -16,7 +16,7 @@ article {
 	display: block;
 }
 
-/* Body 
+/* body 
 */
 body {
 	background-color: #00569f;
@@ -27,7 +27,7 @@ body {
 	margin: 0;
 }
 
-/* Main wrapper: 
+/* Main wrapper
 */
 #wrapper {
 	width: 80%;
@@ -120,7 +120,7 @@ dt {
 	color: #000033;
 }
 
-/* Footer: 
+/* Footer
 */
 footer {
 	background-color: #ffffff;
