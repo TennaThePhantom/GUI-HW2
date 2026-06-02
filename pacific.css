@@ -58,7 +58,7 @@ h2 {
 	margin-top: 0;
 }
 
-/* Navigation
+/* Nav/sidebar
 */
 nav {
 	float: left;
@@ -68,7 +68,7 @@ nav {
 
 /* links formatting */
 nav ul {
-	font-size: 1.2em;
+	font-size: 19px;
 	list-style-type: none;
 	padding-left: 20px;
 	margin: 0;
@@ -83,7 +83,7 @@ nav a:hover {
 	color: #ffffff;
 }
 
-/* Content area
+/* main content
 */
 #content {
 	background-color: #ffffff;
@@ -111,6 +111,9 @@ nav a:hover {
 /* unordered list */
 #content ul {
 	list-style-image: url("marker.gif");
+	list-style-position: inside;
+	margin: 0;
+	padding: 0;
 }
 
 dt {
